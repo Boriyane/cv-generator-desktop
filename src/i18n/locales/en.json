@@ -1,0 +1,62 @@
+{
+  "appTitle": "CV Generator",
+  "steps": {
+    "profile": "Profile",
+    "experience": "Experience",
+    "skills": "Skills & Education",
+    "design": "Design & Export"
+  },
+  "actions": {
+    "next": "Next",
+    "back": "Back",
+    "add": "Add",
+    "remove": "Remove",
+    "exportPdf": "Export PDF",
+    "exportJson": "Export JSON",
+    "importJson": "Import JSON"
+  },
+  "profile": {
+    "fullName": "Full name",
+    "title": "Title",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "summary": "Summary",
+    "website": "Website",
+    "linkedin": "LinkedIn"
+  },
+  "experience": {
+    "role": "Role",
+    "company": "Company",
+    "location": "Location",
+    "startDate": "Start",
+    "endDate": "End",
+    "summary": "Summary"
+  },
+  "education": {
+    "degree": "Degree",
+    "school": "School",
+    "location": "Location",
+    "startDate": "Start",
+    "endDate": "End",
+    "details": "Details"
+  },
+  "skills": {
+    "name": "Skill",
+    "level": "Level"
+  },
+  "languages": {
+    "name": "Language",
+    "level": "Level"
+  },
+  "design": {
+    "template": "Template",
+    "theme": "Theme",
+    "accent": "Accent color",
+    "font": "Font"
+  },
+  "score": {
+    "title": "Completion score",
+    "tipsTitle": "Tips"
+  }
+}
