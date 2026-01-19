@@ -1,0 +1,62 @@
+{
+  "appTitle": "Générateur de CV",
+  "steps": {
+    "profile": "Profil",
+    "experience": "Expérience",
+    "skills": "Compétences & Éducation",
+    "design": "Design & Export"
+  },
+  "actions": {
+    "next": "Suivant",
+    "back": "Retour",
+    "add": "Ajouter",
+    "remove": "Supprimer",
+    "exportPdf": "Exporter en PDF",
+    "exportJson": "Exporter JSON",
+    "importJson": "Importer JSON"
+  },
+  "profile": {
+    "fullName": "Nom complet",
+    "title": "Titre",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "summary": "Résumé",
+    "website": "Site web",
+    "linkedin": "LinkedIn"
+  },
+  "experience": {
+    "role": "Poste",
+    "company": "Entreprise",
+    "location": "Lieu",
+    "startDate": "Début",
+    "endDate": "Fin",
+    "summary": "Résumé"
+  },
+  "education": {
+    "degree": "Diplôme",
+    "school": "École",
+    "location": "Lieu",
+    "startDate": "Début",
+    "endDate": "Fin",
+    "details": "Détails"
+  },
+  "skills": {
+    "name": "Compétence",
+    "level": "Niveau"
+  },
+  "languages": {
+    "name": "Langue",
+    "level": "Niveau"
+  },
+  "design": {
+    "template": "Template",
+    "theme": "Thème",
+    "accent": "Couleur d'accent",
+    "font": "Police"
+  },
+  "score": {
+    "title": "Score de complétude",
+    "tipsTitle": "Conseils"
+  }
+}
